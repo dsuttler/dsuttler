@@ -6,23 +6,21 @@
   
 </div>
 
-<br>
+  --- 
+ 
+ <div>
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dsuttler&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsuttler&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  
+<!--   ![dsuttler's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsuttler&theme=tokyonight&show_icons=true) -->
+  
+</div>
 
-## Who am I?
-#### :man_technologist: Incoming Software Engineering Intern @ Discover Financial Services
-#### :man_student: Computer Science Student @ Old Dominion University 
-##### :snowboarder: Snowboarder
-##### :climbing_man: Rock Climber
-##### :dog: Animal Lover
-##### :evergreen_tree: Nature Lover
-##### :pickup_truck: Overlander
-##### :military_helmet: Veteran
-##### :football: Ex Division 1 Athlete
-<br>
-
-
-
-## :hammer_and_wrench: Languages and Tools :
+ --- 
+ 
+ ### :hammer_and_wrench: Languages and Tools :
 
 <!-- Frameworks -->
 <div>
@@ -73,28 +71,26 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" title="redux" alt="redux" width="40" height="40" />
 </div>
 
- --- 
- 
- <div>
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dsuttler&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsuttler&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  
-<!--   ![dsuttler's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsuttler&theme=tokyonight&show_icons=true) -->
-  
-</div>
+--- 
 
- --- 
- 
+### Who am I?
+#### :man_technologist: Incoming Software Engineering Intern @ Discover Financial Services
+#### :man_student: Computer Science Student @ Old Dominion University 
+##### :snowboarder: Snowboarder
+##### :climbing_man: Rock Climber
+##### :dog: Animal Lover
+##### :evergreen_tree: Nature Lover
+##### :pickup_truck: Overlander
+##### :military_helmet: Veteran
+##### :football: Ex Division 1 Athlete
+
+--- 
+
  ### How to Contact Me?
  <a href="https://www.linkedin.com/in/devin-suttler/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
  </a>
-  
-  
-  
-  
+   
   
 <!-- - 👀 As a child my passion was to become a Software Engineer at a major tech company now I am moving to Seattle, WA to make that dream a reality! Current undergrad Computer Science student at Old Dominion University minoring in Cybersecurity. Expected graduate date set for May 2023. Enrolled in the ODU Linked Program to receive a Masters degree in Computer Science by May of 2024. Member of the Cyber Security Student Association and the Association for Computing Machinery at ODU.
 - 📫 How to reach me dsuttler28@gmail.com
