@@ -8,7 +8,7 @@
 
 <!-- Banner Gif -->
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media0.giphy.com/media/GRVM7bxdn7yEFWTN6i/giphy.gif?cid=790b76118da3f568cc0e73b0d19d13c72b35f081f0afad82&rid=giphy.gif&ct=g" width="480" height="360"/>
 </div>
 <br>
 
@@ -79,7 +79,21 @@
 
  --- 
  
-
+ <div>
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dsuttler&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsuttler&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  
+<!--   ![dsuttler's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsuttler&theme=tokyonight&show_icons=true) -->
+  
+</div>
+  
+  
+  
+  
+  
+  
 <!-- - 👀 As a child my passion was to become a Software Engineer at a major tech company now I am moving to Seattle, WA to make that dream a reality! Current undergrad Computer Science student at Old Dominion University minoring in Cybersecurity. Expected graduate date set for May 2023. Enrolled in the ODU Linked Program to receive a Masters degree in Computer Science by May of 2024. Member of the Cyber Security Student Association and the Association for Computing Machinery at ODU.
 - 📫 How to reach me dsuttler28@gmail.com
 - My Professional Network  [![Linkedin Badge](https://img.shields.io/badge/-dsuttler-blue?style=flat&logo=Linkedin&logoColor=white)](https://github.com/dsuttler) -->
