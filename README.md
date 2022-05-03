@@ -92,8 +92,9 @@
  --- 
  
  ### How to Contact Me?
- <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
-  
+ <a href="https://www.linkedin.com/in/devin-suttler/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+ </a>
   
   
   
