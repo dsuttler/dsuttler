@@ -1,18 +1,11 @@
-<!-- Hello banner -->
-<!-- <div id="badges" align="center">
-  <h1>
-  Hello, I'm Devin
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>   
-</h1>
-</div> -->
-
 <!-- Banner Gif -->
 <div>
- <img src="https://i.ibb.co/D9TNxJq/Screen-Shot-2022-05-03-at-00-32-57.png" alt="Screen-Shot-2022-05-03-at-00-32-57" border="0" >
+ <img src="https://i.ibb.co/D9TNxJq/Screen-Shot-2022-05-03-at-00-32-57.png" alt="Screen-Shot-2022-05-03-at-00-32-57" border="0" />
   
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3DCAF7EC&lines=I'm+so+glad+you're+here.)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+so+happy+you're+here.)](https://git.io/typing-svg)
   
 </div>
+
 <br>
 
 ## Who am I?
